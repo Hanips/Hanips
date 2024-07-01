@@ -17,18 +17,6 @@
     </p>
 </a>
 
-### About Me
-- 🌱 Currently deepening my learning in Go and TypeScript (especially for React Native).
-- 👯 I’m always open to collaborating on exciting Go and React Native projects.
-<!--- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).-->
-
-### Let's Connect
-- 🚀 Explore my latest projects on [GitHub](https://github.com/takamanu).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/fauzan-ali-vijsma-720704b2).
-<!--- 🌐 Visit my [Portfolio](https://yourportfolio.com) for more about me and my work.-->
-
-Happy coding! 🚀✨
-
 <!--
 **Hanips/Hanips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
