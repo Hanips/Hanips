@@ -1,7 +1,7 @@
 # Hi there, I'm Hanief! 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hanips&show_icons=true&theme=tokyonight" height="200" width="500" alt="Hanips's GitHub Stats">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
     </p>    
 </a>
 
