@@ -1,7 +1,7 @@
 # Hi there, I'm Hanief! 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <p align="center">
-        http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Hanips}&theme={github_dark}&exclude={}
+        http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Hanips}&theme={github_dark}
     </p>    
 </a>
 
